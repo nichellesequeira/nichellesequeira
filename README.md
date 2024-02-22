@@ -1,6 +1,6 @@
-### Hi there, I'm Nichelle 👋
+## Hi there, I'm Nichelle 👋
 
-# I'm currently a bachelor's student at EPFL in Chemistry and Chemical Engineering 🧪⚗️
+### I'm currently a bachelor's student at EPFL in Chemistry and Chemical Engineering 🧪⚗️
 <!--
 **nichellesequeira/nichellesequeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
